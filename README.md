@@ -5,7 +5,7 @@ A modern e-commerce shopping cart built with Next.js 13, featuring GitHub authen
 ## 🌐 Live Demo
 
 Try the live demo of PDF Slides Co-Viewer hosted on Vercel:  
-[PDF Slides Co-Viewer Live Demo](https://pdf-slides-co-viewer-web-app.vercel.app/)
+[PDF Slides Co-Viewer Live Demo](https://next-js-shopping-cart-with-authentication-7ce8.vercel.app/)
 
 ## 📦 Direct Download
 
