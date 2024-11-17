@@ -4,9 +4,9 @@ import ProductCard from "../components/productCard";
 import { auth } from "@/auth";
 import { redirect } from "next/navigation";
 export default async function Home() {
-  const getSession=await auth();
-  console.log(getSession);
-  if(!getSession?.user) redirect("/unauth-page")
+  // const getSession=await auth();
+  // console.log(getSession);
+  // if(!getSession?.user) redirect("/unauth-page")
   const getAllproducts=await fetchAllProducts();
   // console.log(getAllproducts);
   return (

@@ -10,7 +10,7 @@ Try the live demo of PDF Slides Co-Viewer hosted on Vercel:
 ## 📦 Direct Download
 
 Download the latest version of PDF Slides Co-Viewer as a ZIP file:  
-[Download ZIP](https://github.com/yashheda5/PDF-Slides-Co-Viewer-Web-App/archive/refs/heads/main.zip)
+[Download ZIP](https://github.com/yashheda5/Next.js-Shopping-Cart-with-Authentication/archive/refs/heads/main.zip)
 
 ## 💻 Tech Stack
 
@@ -54,12 +54,12 @@ To set up PDF Slides Co-Viewer locally, follow these steps:
 1. **Clone the Repository**  
    Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yashheda5/PDF-Slides-Co-Viewer-Web-App.git
+   git clone https://github.com/yashheda5/Next.js-Shopping-Cart-with-Authentication.git
    ```
 
 2. **Navigate to the project directory:**
    ```sh
-   cd pdf-co-viewer
+   cd nextjs-shopping-ca
    ```
 
 3. **Install the required packages:**
@@ -73,10 +73,10 @@ To set up PDF Slides Co-Viewer locally, follow these steps:
    npm run dev
    ```
 
-4. **Start the development server for frontend and backend  :**
+4. **Start the development server for the application  :**
    ```sh
    npm run dev
-   npm run dev
+   
    ```
 
 5. **Open the project in your browser at [`http://localhost:3000`](http://localhost:3000) to view your project**.

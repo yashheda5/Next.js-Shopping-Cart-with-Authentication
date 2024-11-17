@@ -4,8 +4,8 @@ import React from 'react'
 import { auth } from '@/auth';
 import { redirect } from 'next/navigation';
 export default async function ProductDetails({ params }) {
-    const getSession=await auth();
-    if(!getSession?.user) redirect("/unauth-page")
+    // const getSession=await auth();
+    // if(!getSession?.user) redirect("/unauth-page")
     const getProductDetails = await fetchProductDetails(params.details);
     console.log(getProductDetails, 'Product Details');
     return (
